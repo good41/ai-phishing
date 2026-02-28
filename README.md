@@ -13,6 +13,8 @@ Research on generative AI in social engineering attacks.
 - Countermeasure development
 
 ## 📚 Publications
-- "Social Engineering 2.0" conference paper (2025)
+- "Social Engineering 2.0: How Generative AI Creates Perfect Phishing Attacks" conference paper (2025)
+
+https://e-u.edu.ua/userfiles/files/135/zbirnik_tez_31_mizhnar_n-p_konf_-2.pdf
 
 *Research ongoing*
